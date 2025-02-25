@@ -1,4 +1,4 @@
-<h1> QED SDET Boot Camp - February 2025 </h1>
+# QED SDET Boot Camp - February 2025
 
 ## Placeholder Project
 
